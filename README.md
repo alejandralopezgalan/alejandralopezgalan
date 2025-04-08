@@ -1,6 +1,6 @@
 # 💫 Hi there! I'm Alejandra!:
 
-<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />Ecology and Science high school teacher sharing my learning journey in Data Analytics<br/>
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" />Ecology and Geography high school teacher sharing my learning journey in Data Analytics<br/>
 <br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tropical%20Fish.png" alt="Tropical Fish" width="25" height="25" /> Did a PhD in Marine Ecology and Neuroscience at the Queensland Brain Institute, The University of Queensland, Australia<br/>
 <br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Currently learning about data analytics and data visualisation<br/>
 <br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25" height="25"/> You can reach me on <a href="https://www.linkedin.com/in/alejandra-lopez-galan/"> LinkedIn</a> or by <a href="mailto:lopez.galan.alejandra@gmail.com"> email</a> <br/>
